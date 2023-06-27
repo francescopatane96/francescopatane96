@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 # Contact me:
-- 📫 How to reach me <a href="mailto://francesco.patane.1@studenti.unipd.it">by mail</a>
+- 📫 <a href="mailto://francesco.patane.1@studenti.unipd.it">by mail</a>
 <p align="left">
 </p>
 
