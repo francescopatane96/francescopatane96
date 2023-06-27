@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Francesco Patanè, MSc </h1>
-<h3 align="center">A passionate biotechnologist living in Italy and keen on Machine learning Drug/Vaccine discovery</h3>
+<h3 align="center">I am a passionate biotechnologist living in Italy and keen on Machine learning Drug/Vaccine discovery. I have a wide plethora of interests such as molecular biology, molecular modelling, synthetic biology and bioinformatics. During my research internship (Master degree) i developed the first stand-alone reverse vaccinology pipeline designed for the discovery of vaccines against eukaryotic microbes like malaria protozoa. I love the idea of using bioinformatic methods (and of course also AI) and wet lab activities together in order to make science more economic and fast</h3>
 
- # Ongoing projects:
+ ### Ongoing projects:
 - 👨‍🔬 eNERVE - eukaryotic New Enhanced Reverse Vaccinology Environment. Role: Principal curator.
-  
 - 🦠 Codon Usage optimization for industrial applications (biocatalysisi and pharmaceuticals).
-  
 - Protein xAI (Integrated gradients to clculate saliency between embeddings(aminoacids) and output prediction.
 - Bionformatics tutorials: Vaccine discovery assisted by Artifical Intelligence (ML and DL)
-- Chemoinformatics tutorials: Drug discovery assisted by Artificial Intelligence (ML and DL)
+- Chemoinformatics tutorials: Drug discovery assisted by CADD (ML and DL)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francescopatane96&label=Profile%20views&color=0e75b6&style=plastic" alt="francescopatane96" /> </p>
@@ -16,6 +14,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francescopatane96" alt="francescopatane96" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
+# Contact me:
 - 📫 How to reach me <a href="mailto://francesco.patane.1@studenti.unipd.it">by mail</a>
 <p align="left">
 </p>
