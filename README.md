@@ -14,7 +14,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=francescopatane96" alt="francescopatane96" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
-# Contact me:
+
 - 📫 <a href="mailto://francesco.patane.1@studenti.unipd.it">by mail</a>
 <p align="left">
 </p>
