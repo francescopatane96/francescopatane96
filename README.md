@@ -1,11 +1,14 @@
-Hi 👋, I'm Francesco Patanè, MSc 
+
+### Hi 👋, I'm Francesco Patanè, MSc 
+I obtained my bachelor degree in Biotechnology (Pharmaceutical curricula) from University of Padova, Italy;
+from the same i'm going to obtain my Master degree in September 2023.
+
 I am a passionate biotechnologist living in Italy and keen on Machine learning Drug/Vaccine discovery. 
+My plethora of interests is vast and includes fields such as molecular biology, molecular modelling, synthetic biology and bioinformatics, cancer research etc--
  
- I have a wide plethora of interests such as molecular biology, molecular modelling, synthetic biology and bioinformatics.
+During my research internship (Master degree) i developed the first stand-alone reverse vaccinology pipeline designed for the discovery of vaccines against eukaryotic microbes like malaria protozoa. 
  
- During my research internship (Master degree) i developed the first stand-alone reverse vaccinology pipeline designed for the discovery of vaccines against eukaryotic microbes like malaria protozoa. 
- 
- I love the idea of using bioinformatic methods (and of course also AI) and wet lab activities together in order to make science more economic and fast
+I love the idea of using bioinformatic methods (and of course also AI) and wet lab activities together in order to make science more economic and fast
 
  ### Ongoing projects:
 - 👨‍🔬 eNERVE - eukaryotic New Enhanced Reverse Vaccinology Environment. Role: Principal curator.
