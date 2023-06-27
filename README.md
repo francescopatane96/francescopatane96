@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Francesco Patanè, MSc </h1>
-<h3 align="center">I am a passionate biotechnologist living in Italy and keen on Machine learning Drug/Vaccine discovery. 
+Hi 👋, I'm Francesco Patanè, MSc 
+I am a passionate biotechnologist living in Italy and keen on Machine learning Drug/Vaccine discovery. 
  
  I have a wide plethora of interests such as molecular biology, molecular modelling, synthetic biology and bioinformatics.
  
  During my research internship (Master degree) i developed the first stand-alone reverse vaccinology pipeline designed for the discovery of vaccines against eukaryotic microbes like malaria protozoa. 
  
- I love the idea of using bioinformatic methods (and of course also AI) and wet lab activities together in order to make science more economic and fast</h3>
+ I love the idea of using bioinformatic methods (and of course also AI) and wet lab activities together in order to make science more economic and fast
 
  ### Ongoing projects:
 - 👨‍🔬 eNERVE - eukaryotic New Enhanced Reverse Vaccinology Environment. Role: Principal curator.
