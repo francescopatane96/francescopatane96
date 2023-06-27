@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Francesco Patanè</h1>
-<h3 align="center">A passionate biotechnologist living in Italy and keen on Machine learning for biomedical applications</h3>
+<h3 align="center">A passionate biotechnologist living in Italy and keen on Machine learning Drug/Vaccine discovery</h3>
+### Ongoing projects:
+- 👨‍🔬 eNERVE - eukaryotic New Enhanced Reverse Vaccinology Environment. Role: Principal curator
+- 🦠 Codon Usage optimization for industrial applications
+- Protein xAI
+- 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=francescopatane96&label=Profile%20views&color=0e75b6&style=plastic" alt="francescopatane96" /> </p>
 
