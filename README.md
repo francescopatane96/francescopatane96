@@ -14,11 +14,12 @@
  I love the idea of using bioinformatic methods (and of course also AI) and wet lab activities together in order to make science  more economic and fast
 
  ### Ongoing projects:
-- 👨‍🔬 eNERVE - eukaryotic New Enhanced Reverse Vaccinology Environment. Role: Principal curator.
-- 🦠 Codon Usage optimization for industrial applications (biocatalysisi and pharmaceuticals).
-- 📊 Protein xAI (Integrated gradients to clculate saliency between embeddings(aminoacids) and output prediction.
-- 📚 Bionformatics tutorials: Vaccine discovery assisted by Artifical Intelligence (ML and DL)
-- 📚 Chemoinformatics tutorials: Drug discovery assisted by CADD (ML and DL)
+- 👨‍🔬 eNERVE: eukaryotic New Enhanced Reverse Vaccinology Environment. Role: Principal curator;
+- 🔬 bNERVE: bacteria New Enhanced Reverse Vaccinology Environment. Role: curator;
+- 🦠 Codon Usage optimization for industrial applications (biocatalysisi and pharmaceuticals);
+- 📊 Protein xAI (explainable AI/ML in protein reseach);
+- 📚 Bionformatics tutorials: Vaccine discovery assisted by Artifical Intelligence (ML and DL);
+- 📚 Chemoinformatics tutorials: Drug discovery assisted by CADD (ML and DL).
 
 
 <h3 align="left">Connect with me:</h3>
