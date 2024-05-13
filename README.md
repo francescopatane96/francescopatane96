@@ -24,7 +24,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 📫 <a href="mailto://francesco.patane.1@studenti.unipd.it">by mail</a>
+- 📫 <a href="mailto://francesco.patane@unipd.it">by mail</a>
 <p align="left">
 </p>
 
